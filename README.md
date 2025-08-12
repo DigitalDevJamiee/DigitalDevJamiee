@@ -10,7 +10,8 @@ Hi! I’m Jamiee B. — a purpose-driven developer, soul-led journal creator, an
 ---
 
 ### 🔧 Tools I'm Learning:
-- **Python** 🐍  
+- **Python** 🐍
+- *JavaScript**  
 - **Git & GitHub** 🔗  
 - **Jupyter Notebooks** 📓  
 - **VS Code** 🎨  
